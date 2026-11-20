@@ -1,6 +1,6 @@
 # Componentes e distribuição
 
-O NestorPro DIRETO utiliza componentes de terceiros. Esta página de apresentação não inclui código-fonte, executáveis nem instaladores desses componentes.
+O NestorPro DIRETO utiliza componentes de terceiros. O código do aplicativo está publicado sob MIT; este repositório não inclui código-fonte, executáveis nem instaladores dos componentes externos. Os créditos da base original estão em THIRD-PARTY-NOTICES.md.
 
 | Componente | Uso | Fonte |
 |---|---|---|
@@ -15,7 +15,7 @@ O projeto Interception declara licenciamento distinto para uso não comercial e 
 
 O repositório oficial ViGEmBus está arquivado. Isso precisa ser considerado na compatibilidade e no suporte da distribuição.
 
-A publicação de documentação não concede licença sobre o aplicativo ou sobre componentes de terceiros. Cada componente mantém os seus termos e avisos.
+A licença MIT deste repositório cobre o código do aplicativo e preserva os créditos da base original. Ela não substitui os termos dos componentes de terceiros. Cada componente mantém os seus termos e avisos.
 
 Fontes verificadas em 19/11/2026:
 - https://github.com/oblitum/Interception#license

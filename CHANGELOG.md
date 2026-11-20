@@ -17,3 +17,10 @@ Este histórico descreve a base em validação; não anuncia um instalador públ
 - Descrição da validação realizada e das pendências.
 - Modelo de relato de problemas.
 - Código-fonte e executável não publicados.
+
+## Código-fonte gratuito — 19/11/2026
+
+- Publicação do código da edição DIRETO sob MIT, com créditos da base KeyboardToGamepad.
+- Projeto de testes e instruções de compilação.
+- Script opcional de preparação de biblioteca externa com verificação de SHA256, sem instalar drivers.
+- Nenhuma alteração no motor instalado no PC do desenvolvedor.

@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup><Compile Include="../../src/NestorPro/DirectEffects.cs" Link="DirectEffects.cs" /><Compile Include="../../src/NestorPro/MouseStick.cs" Link="MouseStick.cs" /><Compile Include="../../src/NestorPro/CharlesSettings.cs" Link="CharlesSettings.cs" /></ItemGroup>
+</Project>

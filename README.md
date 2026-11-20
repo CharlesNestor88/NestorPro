@@ -7,6 +7,7 @@
 **Teclado e mouse → controle virtual XInput. Ajustes no seu painel.**
 
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-0.3.9.4-b91c3b)](CHANGELOG.md)
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-357c49)](LICENSE)
 [![Estágio](https://img.shields.io/badge/est%C3%A1gio-valida%C3%A7%C3%A3o-f0b84b)](docs/VALIDACAO.md)
 [![Plataforma](https://img.shields.io/badge/plataforma-Windows_x64-252b38)](docs/REQUISITOS.md)
 
@@ -44,14 +45,17 @@ A loja e o inventário têm caminhos próprios de comandos. Na loja, o roteament
 
 ## Situação do download
 
-**A apresentação está pública; o pacote para distribuição está em preparação.**
+**Código-fonte gratuito disponível. Pacote executável pronto para instalar ainda em preparação.**
 
 O executável ainda não está disponibilizado neste repositório. Estamos concluindo a preparação de instalação, a revisão de licenças dos componentes e a validação em outros computadores. Quando houver uma distribuição aprovada, o link oficial será publicado nesta página.
 
-Este é o repositório público de apresentação e suporte. **O código-fonte do NestorPro não está publicado aqui.**
+O código está em [src/NestorPro](src/NestorPro), sob a [licença MIT](LICENSE), com os créditos da base original preservados. Você pode estudar, compilar e modificar o projeto, respeitando os termos das dependências.
+
+**[Baixar código-fonte em ZIP](https://github.com/CharlesNestor88/NestorPro/archive/refs/heads/main.zip)** · **[Como compilar](docs/COMPILAR.md)** · **[Créditos e dependências](THIRD-PARTY-NOTICES.md)**
 
 ## Antes de usar
 
+- Para compilar, siga [as instruções do código-fonte](docs/COMPILAR.md).
 - Consulte os [requisitos e dependências](docs/REQUISITOS.md).
 - Comece pela [configuração básica e pelo manual](docs/MANUAL.md).
 - Use o [roteiro de teste](docs/VALIDACAO.md) para verificar mouse, botões, loja e inventário.
