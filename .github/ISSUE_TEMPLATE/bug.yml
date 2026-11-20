@@ -1,0 +1,47 @@
+name: Relatar problema
+description: Descreva uma falha reproduzível no NestorPro.
+title: "[Problema]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Remova dados pessoais de imagens e logs. Este formulário é público."
+  - type: input
+    id: version
+    attributes:
+      label: Versão do NestorPro
+      placeholder: "Ex.: 0.3.9.4 DIRETO"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows e dispositivo
+      description: "Informe versão do Windows e modelo do mouse. DPI/frequência, se conhecidos."
+    validations:
+      required: true
+  - type: dropdown
+    id: context
+    attributes:
+      label: Onde acontece?
+      options:
+        - Mouse sem mirar
+        - ADS
+        - Loja
+        - Inventário
+        - Instalação ou inicialização
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+      description: "O que você fez, o que esperava e o que aconteceu?"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidência revisada
+      description: "Anexe somente imagens ou trechos de logs sem dados pessoais."

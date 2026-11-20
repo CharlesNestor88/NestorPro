@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">NestorPro — Seu controle. Seu movimento.</title><desc id="desc">Identidade em grafite, vermelho e dourado, com símbolo de controle e nome do produto.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1016"/><stop offset=".6" stop-color="#22232b"/><stop offset="1" stop-color="#101116"/></linearGradient><linearGradient id="metal" x2="0" y2="1"><stop stop-color="#faf6e5"/><stop offset=".5" stop-color="#c9a16b"/><stop offset="1" stop-color="#8c6942"/></linearGradient></defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/><path d="M0 0H1200V6H0Z" fill="#d11d42"/><path d="M772 0L620 300M910 0L758 300M1048 0L896 300M1186 0L1034 300" stroke="#ffffff" opacity=".025" stroke-width="48"/>
+<rect x="54" y="53" width="10" height="194" rx="5" fill="#d11d42"/>
+<text x="92" y="119" fill="url(#metal)" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="3">NESTORPRO</text>
+<text x="96" y="164" fill="#f3f0e8" font-family="Segoe UI,Arial,sans-serif" font-size="25">SEU CONTROLE. SEU MOVIMENTO.</text>
+<text x="96" y="214" fill="#b8bdc9" font-family="Segoe UI,Arial,sans-serif" font-size="19">CONTROLE DIRETO · WINDOWS · XINPUT</text>
+<g transform="translate(840 70)" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M42 37Q18 39 11 74L0 132Q-5 157 17 158Q30 158 54 124H146Q170 158 183 158Q205 157 200 132L189 74Q182 39 158 37Z" fill="#13151c" stroke="#a6acb8" stroke-width="3"/><path d="M50 72V100M36 86H64" stroke="#f0b959" stroke-width="7"/><circle cx="152" cy="69" r="7" stroke="#df3454" stroke-width="3"/><circle cx="171" cy="87" r="7" stroke="#df3454" stroke-width="3"/><circle cx="133" cy="87" r="7" stroke="#df3454" stroke-width="3"/><circle cx="152" cy="105" r="7" stroke="#df3454" stroke-width="3"/><circle cx="79" cy="113" r="13" stroke="#a6acb8" stroke-width="3"/><circle cx="120" cy="113" r="13" stroke="#a6acb8" stroke-width="3"/><path d="M85 60H115" stroke="#d11d42" stroke-width="5"/></g>
+</svg>
